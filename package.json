@@ -9,6 +9,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "prosemirror-commands": "^0.11.2",
+    "prosemirror-example-setup": "^0.11.1",
+    "prosemirror-keymap": "^0.11.1",
+    "prosemirror-menu": "^0.11.1",
     "prosemirror-schema-basic": "^0.11.1",
     "prosemirror-schema-list": "^0.11.1",
     "prosemirror-state": "^0.11.1",
@@ -18,6 +22,8 @@
   "devDependencies": {
     "babel-core": "^6.14.0",
     "babel-loader": "^6.2.5",
-    "babel-preset-es2015": "^6.14.0"
+    "babel-preset-es2015": "^6.14.0",
+    "css-loader": "^0.25.0",
+    "style-loader": "^0.13.1"
   }
 }

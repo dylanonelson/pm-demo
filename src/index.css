@@ -1,0 +1,13 @@
+h1.template1 {
+  font-family: 'NYTCheltenham';
+}
+
+img {
+  max-width: 100%;
+}
+
+.ProseMirror {
+  background: #ccc;
+  width: 300px;
+  margin: auto;
+}
